@@ -1,0 +1,2 @@
+Na Etec MCM havia uma sala com 40 alunos, depois de 8 meses, 6 alunos saíram.
+Exiba a quantidade de alunos e a nova quantidade após a saída.
